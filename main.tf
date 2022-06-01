@@ -1,7 +1,6 @@
 provider "vsphere" {
     vsphere_server = var.vsphere_server
-    user           = var.VSPHERE_USER
-    password       = var.VSPHERE_PASSWORD
+
 }
 
 data "vsphere_datacenter" "dc" {
