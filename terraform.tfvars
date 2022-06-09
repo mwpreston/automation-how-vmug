@@ -4,7 +4,4 @@ vms = {
     toronto-web = {
         name = "toronto-web"
     }
-    nyc-web = {
-        name = "nyc-web"
-    }
 }
